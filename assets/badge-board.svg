@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="32" viewBox="0 0 188 32"><title>ESP32 WROOM-32</title><rect width="188" height="32" rx="5" fill="#000"/><path d="M95 0v32" stroke="#666"/><g transform="translate(9 7) scale(.75)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M12 20v2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M12 2v2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M17 20v2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M17 2v2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M2 12h2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M2 17h2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M2 7h2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M20 12h2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M20 17h2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M20 7h2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M7 20v2" />
+  <ns0:path xmlns:ns0="http://www.w3.org/2000/svg" d="M7 2v2" />
+  <ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="4" y="4" width="16" height="16" rx="2" />
+  <ns0:rect xmlns:ns0="http://www.w3.org/2000/svg" x="8" y="8" width="8" height="8" rx="1" />
+</g><text x="36" y="21" font-family="Arial,sans-serif" font-size="13" fill="#ddd">ESP32</text><text x="106" y="21" font-family="Arial,sans-serif" font-size="13" fill="white">WROOM-32</text></svg>
