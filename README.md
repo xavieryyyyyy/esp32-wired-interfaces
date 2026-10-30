@@ -328,12 +328,7 @@ esp32-wired-interfaces/
 ## <img src="assets/icons/file-text.svg" alt="" width="24" height="24"> Documentation and credits
 
 - **Hardware work and test evidence:** Yestin Paraguya. The captures document this individual laboratory build.
-- **Guidance and documentation assistance:** AI-assisted step-by-step coaching and README presentation; observed outcomes come from the hardware tests reported during the session.
-- **Visuals:** AI-generated decorative cover; custom monochrome project logo, badges, chapter graphics, and labeled wiring diagram. Original evidence images remain unchanged.
 - **Icons:** [Lucide](https://lucide.dev/), distributed as static SVGs because GitHub README files do not execute React components. See [upstream license](assets/icons/LICENSE).
-- **Laboratory source:** BCA188 — Wired Communication lesson PDF and Laboratory Activity 8 instructions supplied for the course.
-- **Video evidence:** no videos are included. This submission uses screenshots and wiring photos.
-
 GitHub controls the page theme. The cover and graphics stay black and white; the text and tables follow your GitHub settings.
 
 ---
